@@ -1,13 +1,20 @@
 {
-  "name": "react-interface",
+  "name": "pet-doctor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "popper.js": "^1.14.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-moment": "^1.1.1",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
